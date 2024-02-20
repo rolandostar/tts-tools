@@ -19,7 +19,7 @@
     "release:pre": "pnpm build && pnpm test"
   },
   "dependencies": {
-    "@tts-tools/xmlbundle": "workspace:^",
+    "@tts-tools/xmlbundle": "^1.0.3",
     "big.js": "^6.2.1",
     "json-stable-stringify": "^1.0.2",
     "lodash": "^4.17.21",
